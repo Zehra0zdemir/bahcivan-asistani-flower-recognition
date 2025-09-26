@@ -368,28 +368,6 @@ scikit-learn >= 1.0.0     # Makine öğrenmesi metrikleri
 
 ---
 
-## 🔮 Gelecek Geliştirmeler
-
-### Kısa Vadeli (1-2 ay)
-- 🌺 **Daha fazla çiçek türü** (Oxford 102 Dataset - 102 tür)
-- 📱 **Web uygulaması** (Streamlit/Gradio interface)
-- 🔍 **Object Detection** (çiçek lokalizasyonu)
-- 📊 **Model compression** (mobil optimizasyon)
-
-### Orta Vadeli (3-6 ay)
-- 🤖 **EfficientNet/MobileNet** (mobil deployment)
-- ☁️ **Cloud deployment** (AWS/GCP)
-- 📡 **REST API** (microservice mimarisi)
-- 🔄 **MLOps pipeline** (MLflow, DVC)
-
-### Uzun Vadeli (6+ ay)
-- 🧠 **Vision Transformer** (ViT modelleri)
-- 🌍 **Multi-modal learning** (görsel + metin)
-- 🏭 **Production sistem** (scalable architecture)
-- 📚 **Araştırma publikasyonu**
-
----
-
 ## 🤝 Katkıda Bulunma
 
 1. Bu repository'yi fork edin
@@ -409,26 +387,8 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ## 🙏 Teşekkürler
 
 - **[Akbank](https://www.akbank.com)** ve **[Global AI Hub](https://globalaihub.com)** bootcamp organizasyonu için
-- **[Kaggle](https://www.kaggle.com)** ücretsiz GPU desteği için  
-- **[TensorFlow](https://www.tensorflow.org)** ve **[Keras](https://keras.io)** ekipleri için
-- Açık kaynak topluluğuna katkıda bulunan tüm geliştiriciler için
 
 ---
-
-## 👨‍💻 Geliştirici
-
-**Göker Güner**
-- 🌐 **Portfolio**: [gokerguner.dev](https://gokerguner.dev)
-- 💼 **LinkedIn**: [linkedin.com/in/gokerguner](https://linkedin.com/in/gokerguner)
-- 🐙 **GitHub**: [github.com/gokerguner](https://github.com/gokerguner)
-- 📧 **Email**: gokerguner@example.com
-
----
-
-## 🔗 Önemli Linkler
-
-### 📚 Proje Kaynakları
-🔗 **[Kaggle Notebook - Bahçıvan Asistanı](https://www.kaggle.com/code/gokerguner/bahcivan-asistani-cicek-tanima-sistemi)**
 
 ### 📖 Referanslar
 - [Flowers Recognition Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
@@ -443,10 +403,5 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ### 🌺 "Her çiçeğin kendine özgü bakımı vardır, tıpkı her projenin kendine özgü yaklaşımı olduğu gibi." 🌺
 
 **Akbank Derin Öğrenme Bootcamp 2025**
-
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
-
-[![Stars](https://img.shields.io/github/stars/gokerguner/bahcivan-asistani-flower-recognition?style=social)](https://github.com/gokerguner/bahcivan-asistani-flower-recognition/stargazers)
-[![Forks](https://img.shields.io/github/forks/gokerguner/bahcivan-asistani-flower-recognition?style=social)](https://github.com/gokerguner/bahcivan-asistani-flower-recognition/network/members)
 
 </div>
