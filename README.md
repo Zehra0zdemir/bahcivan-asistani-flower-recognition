@@ -178,8 +178,7 @@ Model odaklanma başarı analizi:
 
 ### 1. Repository'yi Clone Edin
 ```bash
-git clone https://github.com/gokerguner/bahcivan-asistani-flower-recognition.git
-cd bahcivan-asistani-flower-recognition
+git clone https://github.com/Zehra0zdemir/bahcivan-asistani-flower-recognition/tree/main
 ```
 
 ### 2. Gereksinimleri Yükleyin
