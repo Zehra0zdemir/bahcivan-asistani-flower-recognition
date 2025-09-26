@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 **Akbank Derin Öğrenme Bootcamp** kapsamında geliştirilmiş CNN tabanlı çiçek tanıma ve bakım önerileri sistemi.
+https://www.kaggle.com/code/zhraozdmir/bah-van-asistan-i-ek-tan-ma-sistemi/edit
 
 ---
 
